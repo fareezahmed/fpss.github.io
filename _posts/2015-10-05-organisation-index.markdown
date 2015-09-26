@@ -4,7 +4,7 @@ title:  "ORGANISATION"
 date:   2015-10-05
 type: "org"
 
-info: "Faculty of Business Economics PhD student society (FPSS) as an organization aims to enhance and cultivate a sense of community among PhD students of the faculty at the University of Melbourne. The society consists of five sub-committees and the members of the committees are elected through annual elections."
+info: "Hi, Faculty of Business Economics PhD student society (FPSS) as an organization aims to enhance and cultivate a sense of community among PhD students of the faculty at the University of Melbourne. The society consists of five sub-committees and the members of the committees are elected through annual elections."
 
 plan: "The PASC will fulfill its mandate by undertaking three (3) main events each year. These events are:<br><br>
 
